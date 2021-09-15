@@ -26,6 +26,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 98%;
 }
   
 .navlink > a {
