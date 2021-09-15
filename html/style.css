@@ -1,8 +1,13 @@
 h1 {
     text-align: center;
-    color: rgb(139, 64, 0);
+    color: white;
     font-family: 'Courier New', Courier, monospace;
-    padding-top: 400px;
+    background-color:rgb(139, 64, 0);
+    opacity: 0.8;
+    margin-top: 40%;
+    margin-bottom: 0%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 body {
