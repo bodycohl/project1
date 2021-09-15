@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
     padding: 20px;
-    color: rgb(139, 64, 0)
+    color: rgb(139, 64, 0);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
@@ -21,7 +22,7 @@ body {
   
 .navlink > a {
     color: white;
-    padding: 10px;
+    padding: 20px;
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.5em;
