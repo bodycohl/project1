@@ -12,7 +12,7 @@ h1 {
     margin-right: 1%;
 }
 
-body {
+#mainbody {
     background-image: url("mainbackground.jpg");
     background-size: cover;
 }
