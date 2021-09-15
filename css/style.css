@@ -3,5 +3,6 @@ h1 {
 }
 
 body {
-    background-image: "images/shendoahvalley.jpg";
+    background-image: url("../images/shenandoahvalley.jpg");
+    background-size: cover;
 }
