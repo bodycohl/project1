@@ -9,8 +9,3 @@ p {
 p > .gallery {
     flex-wrap: wrap;
 }
-
-.image {
-    height: 400px;
-    padding: 15px;
-}
