@@ -1,9 +1,13 @@
-p {
+.columns {
     display: flex;
     flex-direction: row;
     margin-left: 20px;
     margin-right: 10px;
     height: 100vh;
+  }
+  .stack {
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
   }
 
