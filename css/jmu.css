@@ -8,4 +8,6 @@ p {
 
 .image {
     height: 350px;
+    padding: 10px;
+    margin: 15px;
 }
