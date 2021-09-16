@@ -6,9 +6,9 @@ p {
     height: 100vh;
   }
 
-.gallery {
+p > .gallery {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 
