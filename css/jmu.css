@@ -1,11 +1,18 @@
 p {
     display: flex;
     flex-direction: row;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
     height: 100vh;
   }
 
-.image {
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.gallery > image {
     height: 400px;
     padding: 20px;
 }
