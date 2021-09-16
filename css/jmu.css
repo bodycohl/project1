@@ -4,6 +4,7 @@ p {
     margin-left: 20px;
     margin-right: 10px;
     height: 100vh;
+    flex-wrap: wrap;
   }
 
 .image {
