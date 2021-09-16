@@ -6,6 +6,7 @@ p {
     height: 100vh;
   }
 
-p > .gallery {
+.image {
     flex-wrap: wrap;
+    height: 350px;
 }
