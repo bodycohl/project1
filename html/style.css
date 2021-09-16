@@ -37,8 +37,3 @@
 .navlink > a:hover {
   background-color: gray;
 }
-
-#mainbody {
-    background-image: url("mainbackground.jpg");
-    background-size: cover;
-}
