@@ -1,10 +1,10 @@
-body {
+p {
     display: flex;
     flex-direction: row;
     margin: 20px;
     height: 100vh;
   }
 
-  body > img {
-      height: 500px;
-  }
+.image {
+    height: 500px;
+}
