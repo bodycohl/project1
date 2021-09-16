@@ -7,6 +7,5 @@ p {
   }
 
 .image {
-    flex-wrap: wrap;
     height: 350px;
 }
