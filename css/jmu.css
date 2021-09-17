@@ -1,5 +1,5 @@
 .columns {
-  display: inline;
+  display: inline-block;
   height: 100vh;
 }
 
