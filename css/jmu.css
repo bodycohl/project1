@@ -1,9 +1,4 @@
-h3 {
-  color: #0f3c0f;
-  text-align: center;
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: lighter;
-}
+
 .columns {
   display: flex;
   flex-direction: row;
