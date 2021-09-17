@@ -13,7 +13,9 @@
   color: black;
 }
 
-.stack > img{
+.stack > img {
     height: 350px;
     width: 500px;
+    padding: 10px;
+    margin: 20px;
 }
