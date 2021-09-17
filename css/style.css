@@ -11,7 +11,7 @@
 .navlinks {
   list-style-type: none;
   padding: 0;
-  margin-top: 20px;
+  margin: 0;
   background-color:rgb(139, 64, 0);
   opacity: 0.8;
 
@@ -19,6 +19,7 @@
   justify-content: center;
   align-items: center;
   position: fixed;
+  top: 20px;
   bottom: 0;
   left: 0;
   right: 0;
