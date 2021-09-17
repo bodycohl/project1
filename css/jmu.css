@@ -3,13 +3,12 @@
     flex-direction: row;
     height: 100vh;
   }
-  #stack {
-    display: inline;
-  }
 
 .image {
     height: 350px;
     width: 500px;
+    margin: 15px;
+    padding: 10px;
 }
 
 .bodytext {
