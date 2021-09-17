@@ -1,13 +1,14 @@
 .columns {
   display: inline-block;
   height: 100vh;
+  padding: 200px;
 }
 
 .bodytext {
   font-size: x-large;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: black;
-  padding: 20px;
+  
 }
 
 .photo {
