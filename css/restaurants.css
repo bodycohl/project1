@@ -1,11 +1,13 @@
 .images {
     display: flex;
     flex-direction: row;
-    position: relative;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     margin-bottom: 80px;
+
+    position: relative;
+    width: 700px;
 }
 
 .overlay {
