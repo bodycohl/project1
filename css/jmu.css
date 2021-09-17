@@ -1,19 +1,19 @@
 .columns {
-    display: flex;
-    flex-direction: row;
-    height: 100vh;
-    margin: 10px;
-    padding: 10px;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  margin: 10px;
+  padding: 10px;
 
-  }
-
-.image {
-    height: 350px;
-    width: 500px;
 }
 
 .bodytext {
   font-size: x-large;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: black;
+}
+
+.image {
+    height: 350px;
+    width: 500px;
 }
