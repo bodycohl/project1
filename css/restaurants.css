@@ -1,3 +1,7 @@
+.container {
+    position: relative;
+    width: 700px;
+}
 .images {
     display: flex;
     flex-direction: row;
@@ -5,6 +9,10 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 80px;
+}
+
+.image {
+    
 }
 
 .overlay {
@@ -19,7 +27,7 @@
     background-color:rgb(139, 64, 0);
   }
 
- .images:hover .overlay {
+.container:hover .overlay {
     opacity: 0.8;
   }
 
