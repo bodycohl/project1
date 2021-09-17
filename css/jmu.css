@@ -21,3 +21,9 @@
     padding-right: 5px;
     margin-right: 20px;
 }
+
+.bodytext {
+  font-size: x-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+}
