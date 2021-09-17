@@ -22,7 +22,7 @@
     background-color:rgb(139, 64, 0);
   }
 
-  .container:hover .overlay {
+  .images:hover .overlay {
     opacity: 0.8;
   }
 
