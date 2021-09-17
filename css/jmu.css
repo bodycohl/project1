@@ -5,7 +5,7 @@
     margin-right: 10px;
     height: 100vh;
   }
-  .stack {
+  #stack {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
