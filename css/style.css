@@ -18,11 +18,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 15px;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   width: 100%;
+
 }
   
 .navlink > a {
