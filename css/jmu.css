@@ -5,7 +5,7 @@
   }
 
 .image {
-    display: inline;
+    display: inline-block;
     height: 350px;
     width: 500px;
     padding: 10px;
