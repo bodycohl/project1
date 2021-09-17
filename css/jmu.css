@@ -1,11 +1,11 @@
 .columns {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     height: 100vh;
   }
 
 .image {
-    display: inline-block;
     height: 350px;
     width: 500px;
     padding: 10px;
