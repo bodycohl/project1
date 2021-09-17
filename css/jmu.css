@@ -1,9 +1,6 @@
 .columns {
-  display: inline-block;
+  display: block;
   height: 100vh;
-
-  justify-content: flex-start;
-  align-items: center;
 }
 
 .bodytext {
