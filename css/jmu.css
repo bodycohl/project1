@@ -7,6 +7,7 @@
 .image {
     height: 350px;
     width: 500px;
+    padding: 10px;
 }
 
 .bodytext {
