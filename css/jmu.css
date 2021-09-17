@@ -4,7 +4,7 @@
     height: 100vh;
   }
   #stack {
-    display: inline-block;
+    display: inline;
   }
 
 .image {
