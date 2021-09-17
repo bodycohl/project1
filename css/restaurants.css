@@ -24,6 +24,10 @@
     background-color:rgb(139, 64, 0);
   }
 
+  .container:hover .overlay {
+    opacity: 1;
+  }
+
   .text {
     color: white;
     font-size: 20px;
