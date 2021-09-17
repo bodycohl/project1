@@ -39,3 +39,12 @@
 .navlink > a:hover {
   background-color: gray;
 }
+
+.bodytext {
+  color: black;
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: lighter;
+  font-size: x-large;
+  margin: 15px;
+}
