@@ -3,9 +3,8 @@
   flex-direction: row;
   height: 100vh;
 
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  padding: 20px;
 }
 
 .bodytext {
