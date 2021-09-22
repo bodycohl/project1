@@ -3,7 +3,8 @@
     width: 100%;
   }
   .navlink {
-    width: 50%;
+    width: 100%;
+    font-size: small;
   }
 }
 
