@@ -1,6 +1,7 @@
 .container {
 	position: relative;
-	display: flex;
+  display: flex;
+  padding: 50px;
 }
 
 .img1-wrap {
