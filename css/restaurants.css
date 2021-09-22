@@ -4,7 +4,8 @@
 }
 
 .img1-wrap {
-	position: relative;
+  position: relative;
+  display: block;
 	overflow: hidden;
 	width: 200px;
 }
