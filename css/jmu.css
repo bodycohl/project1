@@ -1,6 +1,5 @@
 .images {
-    display: inline;
-    text-align: center;
+    align-self: center;
     margin-bottom: 80px;
 }
 
