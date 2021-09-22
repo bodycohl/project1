@@ -12,7 +12,6 @@
 	width: 200px;
   }
   .image {
-	display: inline-block;
 	width: 100%;
   }
   .overlay {
@@ -21,7 +20,6 @@
 	bottom: 0;
 	left: 0;
 	right: 0;
-	height: 100%;
 	width: 100%;
 	opacity: 0;
 	transition: .7s ease;
