@@ -1,3 +1,8 @@
+@media (max-width: 400px) {
+	.image {
+		width: min-content;
+	}
+}
 .flex-container {
 	display: flex;
 	flex-direction: row;
