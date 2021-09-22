@@ -5,14 +5,12 @@
 
 .img1-wrap {
   position: relative;
-  display: block;
 	overflow: hidden;
 	width: 200px;
 }
 
 .image {
-  width: 700px;
-  height: 400px;
+  width: 100%;
 }
 
 .overlay {
