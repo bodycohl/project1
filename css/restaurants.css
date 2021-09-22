@@ -22,10 +22,10 @@
 	width: 100%;
 	opacity: 0;
 	transition: .7s ease;
-	background-color: #339c57;
+	background-color:  #0f3c0f;
   }
   .container:hover .overlay {
-	opacity: 1;
+	opacity: 0.8;
   }
   .text {
 	color: white;
