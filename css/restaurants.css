@@ -3,7 +3,6 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	position: relative;
-	width: 50%;
 	margin: 80px;
   }
   .img-wrapper {
@@ -29,7 +28,7 @@
 	opacity: 0.8;
   }
   .text {
-	color: red;
+	color: white;
 	font-size: 18px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	position: absolute;
