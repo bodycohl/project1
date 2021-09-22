@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    height: 100vh;
+  }
+  .child1 {
+
+  }
+
+  .child2 {
+      
+  }
