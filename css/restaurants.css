@@ -1,6 +1,6 @@
 @media (max-width: 400px) {
 	.image {
-		width: min-content;
+		width: 200px;
 	}
 }
 .flex-container {
