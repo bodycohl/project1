@@ -48,3 +48,17 @@
   font-size: x-large;
   margin: 15px;
 }
+
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.images > img {
+  padding: 5px;
+  margin: 10px;
+}
