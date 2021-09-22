@@ -1,7 +1,6 @@
 .container {
-	position: relative;
+  position: relative;
   display: flex;
-  padding: 50px;
 }
 
 .img1-wrap {
@@ -15,7 +14,7 @@
 	width: 100%;
 }
 
-.overlay {
+.overlay2 {
 	display: block;
 	position: absolute;
 	bottom: 0;
