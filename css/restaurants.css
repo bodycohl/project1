@@ -6,9 +6,9 @@
 
 .img1-wrap {
   position: absolute;
+  display: block;
   overflow: hidden;
   width: 200px;
-  padding: 20px;
 }
 
 .image {
