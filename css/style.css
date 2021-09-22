@@ -3,7 +3,7 @@
     width: 100%;
   }
   .navlink {
-    width: auto;
+    width: fit-content;
     font-size: 0.7em;
     padding: 2px;
   }
