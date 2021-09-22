@@ -67,3 +67,12 @@
   align-items: center;
   margin-bottom: 80px;
 }
+
+.image-formatting {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
