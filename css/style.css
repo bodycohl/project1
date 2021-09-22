@@ -2,6 +2,9 @@
   body {
     width: 100%;
   }
+  .navlink {
+    width: 50%;
+  }
 }
 
 .title {
