@@ -3,7 +3,6 @@
     width: 100%;
   }
   .navlink {
-    width: 100%;
     font-size: small;
   }
 }
@@ -28,7 +27,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: sticky;
+  position: fixed;
   margin-top: 10px;
   bottom: 0;
   left: 0;
