@@ -41,16 +41,3 @@
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 }
-.images {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 80px;
-}
-
-.images > img {
-    padding: 5px;
-    margin: 10px;
-}
