@@ -3,8 +3,8 @@
     background-size: cover;
 }
 
-@media (min-width: 1500px) {
+@media screen and (min-width: 1500px) {
     #mainbody {
-        background-size: auto;
+        
     }
   }
