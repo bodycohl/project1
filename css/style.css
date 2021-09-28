@@ -71,7 +71,7 @@
     margin-top: 0;
     margin-left: 0;
     width: 30vw;
-    height: 100vh;
+    height: 100%;
   }
 
   .navlink > a {
@@ -79,9 +79,5 @@
     padding-left: 40px;
     padding-right: 40px;
     font-size: 0.8em;
-  }
-
-  .navlink > a:hover {
-    transform: scale(1.5);
   }
 }
