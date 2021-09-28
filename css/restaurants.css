@@ -57,7 +57,7 @@
 
 @media (max-width: 480px) {
 	.image {
-		width: 200px;
-		height: 100px;
+		width: 50px;
+		height: 20px;
 	}
 }
