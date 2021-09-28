@@ -77,9 +77,4 @@
     padding-right: 40px;
     font-size: 0.8em;
   }
-
-  .navlink > a:hover {
-    left: 0;
-    right: 0;
-  }
 }
