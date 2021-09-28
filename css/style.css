@@ -67,6 +67,17 @@
 @media (max-width: 650px) {
   .navlinks {
     flex-direction: column;
-    height: 30vh;
+    width: 30vw;
+    height: 100vh;
+  }
+
+  .navlink > a {
+    text-align: center;
+    font-size: 1.0em;
+  }
+
+  .navlink > a:hover {
+    left: 0;
+    right: 0;
   }
 }
