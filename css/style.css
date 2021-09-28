@@ -82,7 +82,7 @@
   }
 
   .bodytext {
-    margin: 32vw;
+    margin-left: 32vw;
     font-size: small;
   }
 }
