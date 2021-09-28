@@ -67,6 +67,7 @@
 @media (max-width: 650px) {
   .navlinks {
     flex-direction: column;
+    position: sticky;
     width: 30vw;
     height: 90vh;
     padding-top: 40px;
