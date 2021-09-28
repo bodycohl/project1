@@ -56,7 +56,6 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  position: sticky;
   margin-bottom: 80px;
 }
 
@@ -68,6 +67,7 @@
 @media (max-width: 650px) {
   .navlinks {
     flex-direction: column;
+    position: sticky;
     width: 30vw;
     height: 100vh;
   }
