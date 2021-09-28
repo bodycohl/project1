@@ -79,4 +79,9 @@
     padding-right: 40px;
     font-size: 0.8em;
   }
+
+  .navlink > a:hover {
+    background-color: none;
+    transform: scale(1.0);
+  }
 }
