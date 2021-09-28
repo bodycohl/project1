@@ -54,3 +54,10 @@
 		height: 250px;
 	}
 }
+
+@media (max-width: 480px){
+	.image {
+		width: 250px;
+		height: 100px;
+	}
+}
