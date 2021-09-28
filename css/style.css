@@ -9,6 +9,7 @@
   margin-top: 20px;
   padding: 15px;
 }
+
 .navlinks {
   list-style-type: none;
   padding: 0;
@@ -63,8 +64,8 @@
   margin: 10px;
 }
 
-@media (min-width: 1500px) {
+@media (max-width: 400px) {
   .navlinks {
-    
+    flex-direction: column;
   }
 }
