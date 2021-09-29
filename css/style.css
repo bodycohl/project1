@@ -67,6 +67,7 @@
   margin: 10px;
 }
 
+/* Smaller computer screen */
 @media (max-width: 1100px) {
   .navlinks {
     flex-direction: column;
@@ -97,6 +98,7 @@
   }
 }
 
+/* Moblie screen */
 @media (max-width: 480px) {
   .navlinks {
     flex-direction: column;
