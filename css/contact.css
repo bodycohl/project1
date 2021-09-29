@@ -59,11 +59,12 @@
 
   /* Moblie screen */
   @media (max-width: 480px) {
-
+    form {
+      margin-bottom: 30px;
+    }
     .reference-text {   
       font-size: 1.0em;
     }
-
     .link {
       font-size: x-small;
       padding-bottom: 20px;
