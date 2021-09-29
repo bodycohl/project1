@@ -120,8 +120,8 @@
   #icon {
     font-size: 15px;
     position: relative;
-    top: 2%;
-    right: 2%;
+    top: 0;
+    right: -2%;
   }
   .bodytext {
     font-size: small;
