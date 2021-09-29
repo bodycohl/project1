@@ -58,7 +58,16 @@
   @media (max-width: 500px) {
     form {
       width: 20vw;
-      margin: 5px;
+      height: 100%;
+      margin-right: 10px;
+    }
+
+    .reference-text {   
+      font-size: medium;
+    }
+
+    .link {
+      font-size: small;
     }
   }
 
