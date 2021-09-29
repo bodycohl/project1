@@ -10,6 +10,33 @@
 
     <body>
         <h1 class = "title">Restaurant Recommendations</h1>
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="index.html">Home</a>
+            <a href="history.html">History</a>
+            <a href="jmu.html">JMU</a>
+            <a href="restaurants.html">Restaurants</a>
+            <a href="attractions.html">Attractions</a>
+            <a href="photos.html">Postcard Gallery</a>
+            <a href="report.html">Report</a>
+            <a href="references.html">References & Contact</a>
+        </div>
+
+        <div id="main">
+            <span id = "icon" onclick="openNav()">&#9776; Menu</span>
+        </div>
+
+        <script>
+            function openNav() {
+              document.getElementById("mySidenav").style.width = "250px";
+              document.getElementById("main").style.marginLeft = "250px";
+            }
+            
+            function closeNav() {
+              document.getElementById("mySidenav").style.width = "0";
+              document.getElementById("main").style.marginLeft= "0";
+            }
+        </script>
         <div class = "flex-container">
             <div class = "img1-wrap">
                 <a href = "http://www.bellalunawoodfired.com">
@@ -65,32 +92,5 @@
                 </a>
             </div>
         </div>
-        <div id="mySidenav" class="sidenav">
-            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="index.html">Home</a>
-            <a href="history.html">History</a>
-            <a href="jmu.html">JMU</a>
-            <a href="restaurants.html">Restaurants</a>
-            <a href="attractions.html">Attractions</a>
-            <a href="photos.html">Postcard Gallery</a>
-            <a href="report.html">Report</a>
-            <a href="references.html">References & Contact</a>
-        </div>
-
-        <div id="main">
-            <span id = "icon" onclick="openNav()">&#9776; Menu</span>
-        </div>
-
-        <script>
-            function openNav() {
-              document.getElementById("mySidenav").style.width = "250px";
-              document.getElementById("main").style.marginLeft = "250px";
-            }
-            
-            function closeNav() {
-              document.getElementById("mySidenav").style.width = "0";
-              document.getElementById("main").style.marginLeft= "0";
-            }
-        </script>
     </body>
 </html>
