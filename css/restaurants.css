@@ -58,3 +58,15 @@
 		height: 300px;
 	}
 }
+
+/* Moblie screen */
+@media (max-width: 480px)
+{
+	.flex-direction {
+		flex-direction: column;
+	}
+	.image {
+		width: 250px;
+		height: 100px;
+	}
+}
