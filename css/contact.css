@@ -62,7 +62,10 @@
     form {
       width: 40%;
       margin-bottom: 30px;
-      padding-right: 20px;
+    }
+
+    input, textarea {
+      width: 90%;
     }
     .reference-text {   
       font-size: 1.0em;
