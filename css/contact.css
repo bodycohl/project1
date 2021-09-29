@@ -11,6 +11,7 @@
     padding: 20px;
     margin: 30px;
     width: 60vw;
+    height: 100vh;
   }
 
   .form-title {
@@ -57,9 +58,6 @@
 
   /* Moblie screen */
   @media (max-width: 480px) {
-    form {
-      width: 20vw;
-    }
 
     .reference-text {   
       font-size: 1.0em;
