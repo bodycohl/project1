@@ -88,7 +88,7 @@
 
 @media screen and (max-height: 480px) {
   .sidenav {
-    padding-top: 15px;
+    padding-top: 20px;
   }
   .sidenav a {
     font-size: 18px;
