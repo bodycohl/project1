@@ -60,7 +60,7 @@
   /* Moblie screen */
   @media (max-width: 480px) {
     form {
-      width: 40vw;
+      width: 50%;
       margin-bottom: 30px;
     }
     .reference-text {   
