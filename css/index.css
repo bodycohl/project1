@@ -4,7 +4,7 @@
 }
 
 #mainheading {
-    color: transparent;
+    color: rgb(139, 64, 0);
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 3.0em;
@@ -23,8 +23,8 @@
     }
     #mainheading {
         font-size: 1.5em;
-        position: relative;
-        top: 2%;
-        left: 0;
+        margin-top: 10px;
+        margin-left: 20px;
+        padding-top: 30px;
     }
   }
