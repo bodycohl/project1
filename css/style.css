@@ -115,7 +115,7 @@
   }
   .images {
     flex-direction: column;
-    margin-right: 10px;
+    margin-right: 5px;
     margin-bottom: 20px;
   }
   .images > img {
