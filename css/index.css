@@ -3,8 +3,9 @@
     background-size: cover;
 }
 
-@media screen and (min-width: 1500px) {
+@media (max-width: 1100px) {
     #mainbody {
-        
+        background-size: 100%;
+        background-repeat: inherit;
     }
   }

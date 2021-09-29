@@ -48,12 +48,13 @@
 	-ms-transform: translate(-50%, -50%);
 }
 
+/* Smaller computer screen */
 @media (max-width: 1100px) {
 	.flex-direction {
 		flex-direction: column;
 	}
 	.image {
-		width: 400px;
-		height: 200px;
+		width: 500px;
+		height: 300px;
 	}
 }
