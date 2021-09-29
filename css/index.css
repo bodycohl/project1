@@ -11,8 +11,8 @@
   
     margin-top: 20px;
     margin-left: 40px;
-    padding-top: 70px;
-    flex-grow: 1;
+    padding-top: 75px;
+    flex-grow: 2;
 }
 
 /* Mobile Device */
@@ -25,6 +25,6 @@
         font-size: 1.5em;
         margin-top: 10px;
         margin-left: 20px;
-        padding-top: 30px;
+        padding-top: 10px;
     }
   }
