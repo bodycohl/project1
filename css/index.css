@@ -22,6 +22,9 @@
         background-repeat: no-repeat;
     }
     #mainheading {
-        font-size: 2.0em;
+        font-size: 1.5em;
+        position: relative;
+        top: 2%;
+        left: 0;
     }
   }
