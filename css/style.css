@@ -93,19 +93,6 @@
   padding: 15px;
 }
 
-/* Smaller screen with images */
-@media (max-height: 800px) {
-  .images {
-    flex-direction: column;
-    margin-bottom: 20px;
-  }
-  .images > img {
-    width: 400px;
-    height: 250px;
-    padding: 10px;
-  }
-}
-
 /* Images for smaller desktop screens */
 @media (max-height: 600px) {
   .images > img {
