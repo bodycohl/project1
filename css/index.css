@@ -5,20 +5,22 @@
 
 #mainheading {
     color: rgb(139, 64, 0);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
     font-size: 3.0em;
   
     margin-top: 20px;
     margin-left: 40px;
-    /*padding-top: 80px;*/
-    flex-grow: 2;
+    padding-bottom: 15px;
+    flex-grow: 1;
 }
 
 #box {
     background-color: rgba(255,255,255,.5);
 	position: absolute;
-	left: 0%; right: 0%; bottom: 2%;
+    left: 0%; 
+    right: 0%; 
+    bottom: 2%;
 }
 
 /* Background image on smaller desktop screens */
