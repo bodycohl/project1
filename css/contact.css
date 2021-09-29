@@ -64,6 +64,10 @@
       width: 40%;
       margin-bottom: 30px;
     }
+
+    input[type=submit] {
+      width: 90%;
+    }
     .reference-text {   
       font-size: 1.0em;
     }
