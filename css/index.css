@@ -21,6 +21,13 @@
 	left: 0%; right: 0%; bottom: 2%;
 }
 
+/* Background image on smaller desktop screens */
+@media (max-width: 700px) {
+    #mainbody {
+        background-position: 50%;
+    }
+  }
+
 /* Mobile Device */
 @media (max-width: 480px) {
     #mainbody {
