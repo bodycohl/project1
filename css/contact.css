@@ -10,7 +10,7 @@
     background-color: #e2e2e2;
     padding: 20px;
     margin: 30px;
-    width: 60vh;
+    width: 60vw;
   }
 
   .form-title {
@@ -53,5 +53,12 @@
     text-decoration: none;
     font-weight: lighter;
     text-align: left;
+  }
+
+  @media (max-width: 500px) {
+    form {
+      width: 20vw;
+      margin: 5px;
+    }
   }
 

@@ -9,3 +9,10 @@
         background-repeat: inherit;
     }
   }
+
+  @media (max-width: 480px) {
+    #mainbody {
+        background-size: 100%;
+        background-repeat: inherit;
+    }
+  }
