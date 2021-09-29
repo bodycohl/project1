@@ -71,7 +71,7 @@
 
 .bodytext {
   color: black;
-  text-align: left;
+  text-align: justify;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: lighter;
   font-size: x-large;
@@ -91,7 +91,6 @@
   width: 700px;
   height: 400px;
   padding: 15px;
-  margin: 20px;
 }
 
 /* Moblie Device */
