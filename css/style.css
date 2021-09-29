@@ -93,6 +93,19 @@
   padding: 15px;
 }
 
+/* Smaller screen with images */
+@media (max-height: 800px) {
+  .images {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  .images > img {
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+  }
+}
+
 /* Moblie Device */
 @media (max-height: 480px) {
   .title {
