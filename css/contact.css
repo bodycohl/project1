@@ -62,11 +62,7 @@
     form {
       width: 40%;
       margin-bottom: 30px;
-      margin-right: 10px;
-    }
-
-    input[type=submit] {
-      width: 80%;
+      margin-right: 100px;
     }
     .reference-text {   
       font-size: 1.0em;
