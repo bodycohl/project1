@@ -10,7 +10,6 @@
     background-color: #e2e2e2;
     padding: 20px;
     margin-left: 30px;
-    margin-right: 10px;
     margin-bottom: 50px;
     width: 30vw;
     height: 100vh;
@@ -66,7 +65,7 @@
     }
 
     input[type=submit] {
-      width: 90%;
+      width: 80%;
     }
     .reference-text {   
       font-size: 1.0em;
