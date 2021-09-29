@@ -14,7 +14,7 @@
   }
 
   .form-title {
-      font-weight: bold;
+    font-weight: bold;
   }
 
   input[type=submit] {
@@ -59,12 +59,10 @@
   @media (max-width: 480px) {
     form {
       width: 20vw;
-      height: 100vh;
-      margin-right: 20px;
     }
 
     .reference-text {   
-      font-size: small;
+      font-size: 1.0em;
     }
 
     .link {
