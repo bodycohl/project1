@@ -55,6 +55,9 @@
 		flex-direction: column;
 		margin-bottom: 20px;
 	}
+	.img1-wrap {
+		margin: 10px;
+	}
 	.image {
 		width: 350px;
 		height: 175px;
