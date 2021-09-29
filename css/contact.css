@@ -56,7 +56,7 @@
   }
 
   /* Moblie screen */
-  @media (max-width: 500px) {
+  @media (max-width: 480px) {
     form {
       width: 20vw;
       height: 100%;
