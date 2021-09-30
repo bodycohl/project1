@@ -95,6 +95,7 @@
 @media (max-height: 400px) {
   .title {
     font-size: 1.0em;
+    padding: 10px;
   }
   .sidenav {
     padding-top: 20px;
@@ -106,7 +107,7 @@
     font-size: 15px;
   }
   .bodytext {
-    font-size: small;
+    font-size: x-small;
   }
   .images {
     flex-direction: column;
