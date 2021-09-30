@@ -92,7 +92,7 @@
 }
 
 /* Moblie Device */
-@media (max-height: 350px) {
+@media (max-width: 375px) {
   .title {
     font-size: 1.0em;
     padding: 10px;
