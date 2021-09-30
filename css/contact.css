@@ -41,11 +41,11 @@
   }
 
   .reference-text {   
-      color: #0f3c0f;
-      font-family: 'Courier New', Courier, monospace;
-      font-weight: lighter;
-      text-align: left;
-      font-size: xx-large;
+    color: #0f3c0f;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    text-align: left;
+    font-size: xx-large;
   }
 
   .link {
@@ -58,12 +58,11 @@
   }
 
   /* Moblie screen */
-  @media (max-width: 450px) {
+  @media (max-width: 480px) {
     form {
       width: 30vw;
       margin-bottom: 30px;
     }
-
     input, textarea {
       width: 95%;
       border-radius: 2px;
