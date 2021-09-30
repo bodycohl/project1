@@ -92,7 +92,7 @@
 }
 
 /* Images for smaller desktop screens */
-@media (max-height: 600px) {
+@media (max-height: 650px) {
   .images > img {
     width: 550px;
     height: 400px;
