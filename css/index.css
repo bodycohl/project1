@@ -4,7 +4,7 @@
 }
 
 #mainheading {
-    color: rgb(139, 64, 0);
+    color: white;
     font-family:'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 3.0em;
@@ -15,12 +15,19 @@
 }
 
 #box {
-    background-color: rgba(255,255,255,.5);
+    background-color: rgba(139, 64, 0, 0.7);
 	position: absolute;
     left: 0%; 
     right: 0%; 
     bottom: 2%;
 }
+
+#main-home{
+    transition: margin-left .5s;
+    padding: 20px;
+    margin-top: 40px;
+    color: white;
+  }
 
 /* Background image on smaller desktop screens */
 @media (max-width: 700px) {

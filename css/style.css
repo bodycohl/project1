@@ -22,7 +22,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  opacity: 0.95;
+  opacity: 0.9;
   background-color:rgb(139, 64, 0);
   overflow-x: hidden;
   transition: 0.5s;
@@ -60,11 +60,11 @@
   margin-right: 40px;
 }
 
-#main {
+.main-other{
   transition: margin-left .5s;
   padding: 20px;
   margin-top: 40px;
-  color: rgb(139, 64, 0);
+  color: #0f3c0f;
 }
 
 .bodytext {
