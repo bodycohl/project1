@@ -1,10 +1,10 @@
 .flex-container {
-	position: relative;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
+	position: relative;
 	margin-bottom: 80px;
 }
 
@@ -49,9 +49,9 @@
 }
 
 /* Moblie Device */
-@media (max-width: 480px)
+@media (max-width: 450px)
 {
-	.flex-direction {
+	.flex-container {
 		flex-direction: column;
 		margin-bottom: 20px;
 	}

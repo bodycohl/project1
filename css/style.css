@@ -91,8 +91,22 @@
   padding: 15px;
 }
 
+/* Images on smaller desktop screens */
+@media (max-width: 700px) {
+  .images {
+      flex-direction: column;
+      margin-bottom: 30px;
+  }
+
+  .images > img {
+    width: 550px;
+    height: 375px;
+    padding: 10px;
+  }
+}
+
 /* Moblie Device */
-@media (max-width: 375px) {
+@media (max-width: 450px) {
   .title {
     font-size: 1.0em;
     padding: 10px;
@@ -116,6 +130,6 @@
   .images > img {
     width: 275px;
     height: 150px;
-    padding: 10px;
+    padding: 7px;
   }
 }

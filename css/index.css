@@ -37,7 +37,7 @@
 }
 
 /* Mobile Device */
-@media (max-width: 480px) {
+@media (max-width: 45-px) {
     #mainbody {
         background-size: 100%;
     }
