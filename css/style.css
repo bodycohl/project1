@@ -91,14 +91,6 @@
   padding: 15px;
 }
 
-/* Images for smaller desktop screens */
-@media (max-height: 725px) {
-  .images > img {
-    width: 50px;
-    height: 375px;
-  }
-}
-
 /* Moblie Device */
 @media (max-height: 480px) {
   .title {
