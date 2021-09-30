@@ -1,78 +1,78 @@
 .flex-container {
-    display: flex;
-    flex-direction: row;
-    margin: 20px;
-    height: 75vh;
-  }
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  height: 75vh;
+}
 
-  form {
-    border-radius: 5px;
-    background-color: #e2e2e2;
-    padding: 20px;
-    margin-left: 30px;
-    margin-bottom: 50px;
-    width: 30vw;
-    height: 100vh;
-  }
+form {
+  border-radius: 5px;
+  background-color: #e2e2e2;
+  padding: 20px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  width: 30vw;
+  height: 100vh;
+}
 
-  .form-title {
-    font-weight: bold;
-  }
+.form-title {
+  font-weight: bold;
+}
 
-  input[type=submit] {
-    width: 100%;
-    background-color: rgb(139, 64, 0);
-    opacity: 0.7;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
+input[type=submit] {
+  width: 100%;
+  background-color: rgb(139, 64, 0);
+  opacity: 0.7;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
   
-  input[type=submit]:hover {
-    background-color: rgb(139, 64, 0);
-    opacity: 1;
-  }
+input[type=submit]:hover {
+  background-color: rgb(139, 64, 0);
+  opacity: 1;
+}
 
-  .reference-section {
-    flex-grow: 1;
-  }
+.reference-section {
+  flex-grow: 1;
+}
 
+.reference-text {
+  color: #0f3c0f;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+  text-align: left;
+  font-size: xx-large;
+}
+
+.link {
+  color: #0f3c0f;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-decoration: none;
+  font-weight: lighter;
+  text-align: left;
+}
+
+/* Moblie screen */
+@media (max-width: 480px) {
+  form {
+    width: 30vw;
+    margin-bottom: 30px;
+  }
+  input, textarea {
+    width: 95%;
+    border-radius: 2px;
+  }
   .reference-text {   
-    color: #0f3c0f;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: lighter;
-    text-align: left;
-    font-size: xx-large;
+    font-size: 1.0em;
   }
-
   .link {
-    color: #0f3c0f;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-    text-decoration: none;
-    font-weight: lighter;
-    text-align: left;
+    font-size: x-small;
+    padding-bottom: 20px;
   }
-
-  /* Moblie screen */
-  @media (max-width: 480px) {
-    form {
-      width: 30vw;
-      margin-bottom: 30px;
-    }
-    input, textarea {
-      width: 95%;
-      border-radius: 2px;
-    }
-    .reference-text {   
-      font-size: 1.0em;
-    }
-    .link {
-      font-size: x-small;
-      padding-bottom: 20px;
-    }
-  }
+}
 
