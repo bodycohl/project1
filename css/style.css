@@ -110,6 +110,9 @@
   .sidenav a {
     font-size: 18px;
   }
+  #icon {
+    font-size: 15px;
+  }
   .bodytext {
     font-size: small;
   }
