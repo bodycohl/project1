@@ -1,0 +1,52 @@
+Peer Review by Aaron Rock:
+
+1.What did you like about this website?
+
+    I am so impressed with your website from the style to the coding aspect. Your ebsite does an amazing job 
+    of giving the user an enjoyable experience of navigating around the site without having any page that 
+    is out of place or lacking in style. I thought you did a great job with being selfless and making a site 
+    for the purpose of others just like the spec asked for. I think my favorite part was the nav bar and the use 
+    of javascript.
+
+2.Describe one significant difference between your own P1 site and this person's. E.g.
+
+    I think the biggest difference between our sites is the amount of inforamtion you give the user. 
+    My site gives inforamtion on the cycling club but you go in depth more on inforamtion that the user would 
+    find enjoyable.
+
+    1.Which has a better user experience (and why)?
+
+        In my opinion yours does. I found myself actually reading all of your site and was impressed with the images
+        and context. I never felt that there was info or an image that was out of place.
+
+    2.Which codebase do you think would be more maintainable (and why)?
+
+        I think it is close but yours would be easier to maintain. My reasoning behind this is simply just because 
+        updating my calender and events can become a bit time consuming. 
+
+3.Is the code well-structured within files, and well-organized between files and directories?
+
+    Yes, your code is easy to naviagate and understand. Each item is labeled with something meaningful and is placed 
+    where it should be.
+
+    1.if not, suggest some specific improvements
+
+        My only thing I could find is in attactions.html the body text goes wider than the coding window, but really 
+        that is more of a style choice.
+
+4.Did you find any other issues? If so, briefly enumerate them.
+
+    I did not find anything else that I would change or any code that is concerning.
+
+    1.were semantically appropriate elements selected
+        Yes, each element, class, id is selected correctly and used appropriately.
+
+    2.is the CSS refactored to limit duplication?
+
+        The code is well used with not having any duplicate code. I actually thought with a site this large there 
+        would be much more CSS, but when inspecting the site it is just used wisely.
+
+5.Do you have any other constructive comments for the author?
+
+    I do not. I think that your site was truly amazing. Great job!
+
